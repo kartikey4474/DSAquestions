@@ -23,6 +23,7 @@ public class hashset { // implementation of hashset.
         while (i.hasNext()) {   //  returns a boolean .has next means it will print until element is present.
  
             System.out.println(i.next() + " ");
+           
             
         }
 
